@@ -1,2 +1,8 @@
-# fuzzy-guacamole
-abc
+# 你的名字的第一个GitHub测试项目
+
+## 项目介绍
+这是我在 GitHub 上创建的第一个测试项目，用于学习和熟悉 Git 与 GitHub 的基本操作，包括仓库创建、README 编写与提交。
+
+## 使用方法
+1. 访问本项目的 GitHub 仓库主页，查看 README 了解项目基本信息。
+2. 可以通过 `git clone` 命令将项目克隆到本地，进行后续的学习和修改。
